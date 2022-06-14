@@ -21,6 +21,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
+.vsconfig
 .vs/
 
 # Gradle cache directory
@@ -59,5 +60,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# Mac
-.DS_Store
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
